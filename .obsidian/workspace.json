@@ -204,6 +204,16 @@
               "icon": "lucide-list",
               "title": "Outline of First note"
             }
+          },
+          {
+            "id": "b26ab4799c2aa1bb",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
           }
         ],
         "currentTab": 3
@@ -242,7 +252,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "20d1fc4c9721fe06",
+  "active": "bb5e88ffa7fa287e",
   "lastOpenFiles": [
     "javaScript/javaScript.md",
     "journal/journal.md",
