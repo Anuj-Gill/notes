@@ -14,7 +14,9 @@
     "sql": 2,
     "projects": 3,
     "journal": 4,
-    "javaScript": 5
+    "javaScript": 5,
+    "git": 6,
+    "gitFlag": 7
   },
   "_version": 3
 }

@@ -44,9 +44,24 @@
               "icon": "lucide-file",
               "title": "Home"
             }
+          },
+          {
+            "id": "a04ebbef3a37dec2",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/colored-tags/data.json",
+                "bFile": ".obsidian/plugins/colored-tags/data.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks"
             }
           },
           {
@@ -252,15 +266,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bb5e88ffa7fa287e",
+  "active": "a04ebbef3a37dec2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Home.md",
+    "git/amend-commit.md",
     "javaScript/javaScript.md",
     "journal/journal.md",
     "projects/projects.md",
     "Untitled",
     "sql/sql.md",
     "systemDesign/systemDesign.md",
-    "Home.md",
     "systemDesign",
     "javaScript",
     "sql",
