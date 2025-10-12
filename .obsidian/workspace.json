@@ -51,13 +51,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/plugins/colored-tags/data.json",
-                "bFile": ".obsidian/plugins/colored-tags/data.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: data.json"
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
         ],
@@ -266,7 +265,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a04ebbef3a37dec2",
+  "active": "bb5e88ffa7fa287e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Home.md",
