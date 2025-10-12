@@ -1,0 +1,7 @@
+- [[git|Git]] 
+- [[javaScript|Java Script]]
+- [[journal|Journal]]
+- [[projects|Projects]]
+- [[sql|SQL]]
+- [[systemDesign|System Design]]
+- [[terminal|Terminal]]
