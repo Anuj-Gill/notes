@@ -16,7 +16,8 @@
     "journal": 4,
     "javaScript": 5,
     "git": 6,
-    "gitFlag": 7
+    "gitFlag": 7,
+    "dailyNotes": 8
   },
   "_version": 3
 }

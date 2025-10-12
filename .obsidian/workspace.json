@@ -11,14 +11,14 @@
             "id": "5ec103f1db5ae1f3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "git/amend-commit.md",
-                "bFile": "git/amend-commit.md",
-                "aRef": ""
+                "file": "journal/2025-10-13.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: amend-commit"
+              "icon": "lucide-file",
+              "title": "2025-10-13"
             }
           }
         ]
@@ -113,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "journal/2025-10-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-10-13"
             }
           },
           {
@@ -228,15 +229,17 @@
   },
   "active": "5ec103f1db5ae1f3",
   "lastOpenFiles": [
-    "git/amend-commit.md",
     "Home.md",
+    "journal/2025-10-13.md",
+    "systemDesign/todo.md",
+    "systemDesign/systemDesign.md",
+    "journal/journal.md",
+    "git/amend-commit.md",
     "conflict-files-obsidian-git.md",
     "javaScript/javaScript.md",
-    "journal/journal.md",
     "projects/projects.md",
     "Untitled",
     "sql/sql.md",
-    "systemDesign/systemDesign.md",
     "systemDesign",
     "javaScript",
     "sql",

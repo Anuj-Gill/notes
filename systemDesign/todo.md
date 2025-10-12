@@ -1,0 +1,47 @@
+#systemDesign 
+
+- [x] System Design Interview Framework (Requirements, Estimation, etc.)
+- [x] Understand client-server model
+- [x] HTTP basics: methods, status codes
+- [x] IP, DNS, Ports, Proxies
+- [ ] REST vs gRPC basics
+- [ ] Latency vs Throughput
+- [ ] RDBMS vs NoSQL
+- [ ] Indexes, Joins, Transactions
+- [ ] CAP Theorem
+- [ ] Sharding & Replication
+- [ ] Data Partitioning Strategies (Hash vs Range)
+- [ ] Leader Election
+- [ ] Caching basics
+- [ ] Load Balancers (L4 vs L7, Algorithms)
+- [ ] CDNs
+- [ ] Rate Limiting & Throttling
+- [ ] Horizontal vs Vertical Scaling
+- [ ] Stateless vs Stateful Services
+- [ ] Communication Patterns (Polling, WebSockets, SSEs)
+- [ ] Cache aside vs Write-through
+- [ ] Redis & Memcached basics
+- [ ] Message Queues (Kafka, RabbitMQ, SQS)
+- [ ] Pub/Sub patterns
+- [ ] Backpressure handling
+- [ ] Design TinyURL
+- [ ] Design Rate Limiter
+- [ ] Design News Feed
+- [ ] Design Chat App
+- [ ] Design File Storage (Google Drive/Dropbox)
+- [ ] Design Twitter (timeline + scale)
+- [ ] Design YouTube/Netflix (video streaming)
+- [ ] Design WhatsApp
+- [ ] Design Payment System
+- [ ] Design Search (Google-like)
+- [ ] Consistency vs Availability tradeoffs
+- [ ] Monitoring & Logging basics (+ Alerting)
+- [ ] Circuit Breakers & Retries
+- [ ] Microservices vs Monoliths
+- [ ] Containerization (Docker/K8s basics)
+- [ ] Security Fundamentals (AuthN/AuthZ, Encryption)
+- [ ] 1 easy + 1 medium mock interview
+- [ ] Review weak areas
+- [ ] Revisit DB & Caching tradeoffs
+- [ ] Practice explaining designs on paper/whiteboard
+- [ ] Final system design mock interview
