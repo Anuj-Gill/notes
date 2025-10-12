@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d684bd536d4a2c0c",
+        "id": "d294e25d15612647",
         "type": "tabs",
         "children": [
           {
-            "id": "81960e7cee1c060f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f5e072181f5fd861",
+            "id": "3a07cea1fdbb70c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trying notes linking.md",
+                "file": "git/amend-commit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trying notes linking"
-            }
-          },
-          {
-            "id": "20d1fc4c9721fe06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
+              "title": "amend-commit"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +105,7 @@
       {
         "id": "61d4b8b5de79409c",
         "type": "tabs",
-        "dimension": 56.372549019607845,
+        "dimension": 56.37254901960785,
         "children": [
           {
             "id": "666795eccd413d54",
@@ -211,7 +186,7 @@
       {
         "id": "567caf17fea8218b",
         "type": "tabs",
-        "dimension": 43.627450980392155,
+        "dimension": 43.62745098039215,
         "children": [
           {
             "id": "9834fdbd07d13f72",
@@ -242,20 +217,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "20d1fc4c9721fe06",
+  "active": "3a07cea1fdbb70c9",
   "lastOpenFiles": [
+    "git/git.md",
+    "git/amend-commit.md",
+    "Untitled.md",
+    "Home.md",
     "javaScript/javaScript.md",
     "journal/journal.md",
     "projects/projects.md",
     "Untitled",
     "sql/sql.md",
     "systemDesign/systemDesign.md",
-    "Home.md",
     "systemDesign",
     "javaScript",
     "sql",
     "projects",
-    "git/git.md",
     "journal",
     "terminal/terminal.md",
     "terminal.md",
