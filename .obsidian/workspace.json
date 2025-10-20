@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-10-15.md",
+                "file": "systemDesign/todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-15"
+              "title": "todo"
             }
           }
         ]
@@ -229,11 +229,13 @@
   },
   "active": "5ec103f1db5ae1f3",
   "lastOpenFiles": [
+    "systemDesign/systemDesign.md",
     "systemDesign/todo.md",
+    "systemDesign/indexing.md",
+    "Untitled.md",
     "journal/2025-10-15.md",
     "journal/2025-10-13.md",
     "Home.md",
-    "systemDesign/systemDesign.md",
     "journal/journal.md",
     "git/amend-commit.md",
     "conflict-files-obsidian-git.md",

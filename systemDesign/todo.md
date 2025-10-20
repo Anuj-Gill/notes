@@ -6,7 +6,7 @@
 - [x] IP, DNS, Ports, Proxies
 - [ ] REST vs gRPC basics
 - [x] Latency vs Throughput
-- [ ] RDBMS vs NoSQL
+- [x] RDBMS vs NoSQL
 - [ ] Indexes, Joins, Transactions
 - [ ] CAP Theorem
 - [ ] Sharding & Replication
