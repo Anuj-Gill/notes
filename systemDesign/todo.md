@@ -5,7 +5,7 @@
 - [x] HTTP basics: methods, status codes
 - [x] IP, DNS, Ports, Proxies
 - [ ] REST vs gRPC basics
-- [ ] Latency vs Throughput
+- [x] Latency vs Throughput
 - [ ] RDBMS vs NoSQL
 - [ ] Indexes, Joins, Transactions
 - [ ] CAP Theorem
