@@ -8,7 +8,7 @@
 - [x] Latency vs Throughput
 - [x] RDBMS vs NoSQL
 - [ ] Indexes, Joins, Transactions
-- [ ] CAP Theorem
+- [x] CAP Theorem
 - [ ] Sharding & Replication
 - [ ] Data Partitioning Strategies (Hash vs Range)
 - [ ] Leader Election
@@ -34,7 +34,7 @@
 - [ ] Design WhatsApp
 - [ ] Design Payment System
 - [ ] Design Search (Google-like)
-- [ ] Consistency vs Availability tradeoffs
+- [x] Consistency vs Availability tradeoffs
 - [ ] Monitoring & Logging basics (+ Alerting)
 - [ ] Circuit Breakers & Retries
 - [ ] Microservices vs Monoliths
