@@ -9,8 +9,8 @@
 - [x] RDBMS vs NoSQL
 - [ ] Indexes, Joins, Transactions
 - [x] CAP Theorem
-- [ ] Sharding & Replication
-- [ ] Data Partitioning Strategies (Hash vs Range)
+- [x] Sharding & Replication
+- [x] Data Partitioning Strategies (Hash vs Range)
 - [ ] Leader Election
 - [ ] Caching basics
 - [ ] Load Balancers (L4 vs L7, Algorithms)
@@ -18,7 +18,7 @@
 - [ ] Rate Limiting & Throttling
 - [ ] Horizontal vs Vertical Scaling
 - [ ] Stateless vs Stateful Services
-- [ ] Communication Patterns (Polling, WebSockets, SSEs)
+- [x] Communication Patterns (Polling, WebSockets, SSEs)
 - [ ] Cache aside vs Write-through
 - [ ] Redis & Memcached basics
 - [ ] Message Queues (Kafka, RabbitMQ, SQS)
