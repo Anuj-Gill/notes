@@ -11,7 +11,7 @@
 - [x] CAP Theorem
 - [x] Sharding & Replication
 - [x] Data Partitioning Strategies (Hash vs Range)
-- [ ] Leader Election
+- [x] Leader Election
 - [ ] Caching basics
 - [ ] Load Balancers (L4 vs L7, Algorithms)
 - [ ] CDNs
