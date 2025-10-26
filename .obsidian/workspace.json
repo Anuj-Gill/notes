@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-10-27.md",
+                "file": "journal/2025-10-27.md",
                 "mode": "source",
                 "source": false
               },
@@ -256,10 +256,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "35fce182a171e77f",
+  "active": "5573cc479759e5f3",
   "lastOpenFiles": [
     "journal/2025-10-24.md",
-    "2025-10-27.md",
+    "journal/2025-10-27.md",
     "journal/Untitled.md",
     "projects/majorProject/Schema.md",
     "systemDesign/leader election.md",
