@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-10-24.md",
+                "file": "2025-10-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-24"
+              "title": "2025-10-27"
             }
           }
         ],
@@ -258,10 +258,12 @@
   },
   "active": "35fce182a171e77f",
   "lastOpenFiles": [
+    "journal/2025-10-24.md",
+    "2025-10-27.md",
+    "journal/Untitled.md",
     "projects/majorProject/Schema.md",
     "systemDesign/leader election.md",
     "projects/majorProject",
-    "journal/2025-10-24.md",
     "systemDesign/todo.md",
     "Home.md",
     "journal/2025-10-23.md",
@@ -290,8 +292,6 @@
     "code",
     "git",
     "third note.md",
-    "Trying notes linking.md",
-    "Untitled 2.md",
-    "Untitled 1.md"
+    "Trying notes linking.md"
   ]
 }
