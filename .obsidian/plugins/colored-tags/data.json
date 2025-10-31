@@ -19,7 +19,8 @@
     "gitFlag": 7,
     "dailyNotes": 8,
     "db": 9,
-    "oops": 10
+    "oops": 10,
+    "todo": 11
   },
   "_version": 3
 }
