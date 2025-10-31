@@ -12,14 +12,14 @@
 - [x] Sharding & Replication
 - [x] Data Partitioning Strategies (Hash vs Range)
 - [x] Leader Election
-- [ ] Caching basics
+- [x] [[caching|Caching]] 
 - [ ] Load Balancers (L4 vs L7, Algorithms)
-- [ ] CDNs
+- [x] CDNs
 - [ ] Rate Limiting & Throttling
 - [ ] Horizontal vs Vertical Scaling
 - [ ] Stateless vs Stateful Services
 - [x] Communication Patterns (Polling, WebSockets, SSEs)
-- [ ] Cache aside vs Write-through
+- [x] Cache aside vs Write-through
 - [ ] Redis & Memcached basics
 - [ ] Message Queues (Kafka, RabbitMQ, SQS)
 - [ ] Pub/Sub patterns
