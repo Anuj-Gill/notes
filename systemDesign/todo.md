@@ -16,12 +16,12 @@
 - [ ] Load Balancers (L4 vs L7, Algorithms)
 - [x] CDNs
 - [ ] Rate Limiting & Throttling
-- [ ] Horizontal vs Vertical Scaling
+- [x] Horizontal vs Vertical Scaling
 - [ ] Stateless vs Stateful Services
 - [x] Communication Patterns (Polling, WebSockets, SSEs)
 - [x] Cache aside vs Write-through
 - [ ] Redis & Memcached basics
-- [ ] Message Queues (Kafka, RabbitMQ, SQS)
+- [ ] [[message-queues|Message Queues]] ([[kafka|Kafka]], RabbitMQ, SQS)
 - [ ] Pub/Sub patterns
 - [ ] Backpressure handling
 - [ ] Design TinyURL

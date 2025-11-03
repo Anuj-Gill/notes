@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "systemDesign/cacheEvication.md",
+                "file": "systemDesign/todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cacheEvication"
+              "title": "todo"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -153,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 294.5
   },
   "right": {
     "id": "ff1a527a3c4c6128",
@@ -284,20 +284,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bb5e88ffa7fa287e",
+  "active": "1266d821231b32e7",
   "lastOpenFiles": [
+    "systemDesign/message-queues.md",
+    "systemDesign/todo.md",
+    "systemDesign/kafka.md",
+    "systemDesign/sharding.md",
+    "Pasted image 20251101184403.png",
+    "Pasted image 20251101184342.png",
+    "journal/2025-11-01.md",
+    "systemDesign/cacheEvication.md",
     "systemDesign/cdn.md",
     "Home.md",
-    "systemDesign/todo.md",
     "sql/sql.md",
     "systemDesign/caching.md",
     "systemDesign/cacheInvalidation.md",
-    "systemDesign/cacheEvication.md",
     "Pasted image 20251031161743.png",
     "Pasted image 20251031161628.png",
     "Pasted image 20251031160936.png",
     "Pasted image 20251031160931.png",
-    "systemDesign/sharding.md",
     "Pasted image 20251031160308.png",
     "journal/2025-10-31.md",
     "oops/oops.md",
@@ -316,9 +321,6 @@
     "journal/2025-10-13.md",
     "journal/2025-10-15.md",
     "journal/journal.md",
-    "git/amend-commit.md",
-    "conflict-files-obsidian-git.md",
-    "javaScript/javaScript.md",
     "systemDesign",
     "javaScript",
     "sql",
