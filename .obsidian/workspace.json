@@ -8,62 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ec103f1db5ae1f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-10-22.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-22"
-            }
-          },
-          {
-            "id": "6753aaa91ff073f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "systemDesign/leader election.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "leader election"
-            }
-          },
-          {
-            "id": "35fce182a171e77f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journal/2025-10-27.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-27"
-            }
-          },
-          {
-            "id": "845af3b1aa7861c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "systemDesign/todo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "todo"
-            }
-          },
-          {
             "id": "1266d821231b32e7",
             "type": "leaf",
             "state": {
@@ -77,8 +21,7 @@
               "title": "todo"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "First note.md",
+                "file": "systemDesign/todo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of First note"
+              "title": "Outline of todo"
             }
           },
           {
@@ -281,13 +224,23 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "1266d821231b32e7",
   "lastOpenFiles": [
-    "systemDesign/message-queues.md",
+    "systemDesign/tiny-url.md",
+    "Pasted image 20251103231144.png",
+    "Pasted image 20251103231018.png",
+    "Pasted image 20251103224729.png",
+    "Pasted image 20251103214423.png",
+    "Pasted image 20251103214419.png",
+    "Excalidraw/Drawing 2025-11-03 21.31.18.excalidraw.md",
+    "Excalidraw",
+    "Pasted image 20251103193332.png",
     "systemDesign/todo.md",
+    "systemDesign/message-queues.md",
     "systemDesign/kafka.md",
     "systemDesign/sharding.md",
     "Pasted image 20251101184403.png",
@@ -301,9 +254,6 @@
     "systemDesign/cacheInvalidation.md",
     "Pasted image 20251031161743.png",
     "Pasted image 20251031161628.png",
-    "Pasted image 20251031160936.png",
-    "Pasted image 20251031160931.png",
-    "Pasted image 20251031160308.png",
     "journal/2025-10-31.md",
     "oops/oops.md",
     "journal/Untitled.md",
@@ -318,16 +268,12 @@
     "systemDesign/systemDesign.md",
     "journal/2025-10-22.md",
     "systemDesign/indexing.md",
-    "journal/2025-10-13.md",
-    "journal/2025-10-15.md",
-    "journal/journal.md",
     "systemDesign",
     "javaScript",
     "sql",
     "projects",
     "journal",
     "terminal",
-    "code",
-    "git"
+    "code"
   ]
 }

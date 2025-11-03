@@ -13,7 +13,7 @@
 - [x] Data Partitioning Strategies (Hash vs Range)
 - [x] Leader Election
 - [x] [[caching|Caching]] 
-- [ ] Load Balancers (L4 vs L7, Algorithms)
+- [x] Load Balancers (L4 vs L7, Algorithms)
 - [x] CDNs
 - [ ] Rate Limiting & Throttling
 - [x] Horizontal vs Vertical Scaling
@@ -22,9 +22,9 @@
 - [x] Cache aside vs Write-through
 - [ ] Redis & Memcached basics
 - [ ] [[message-queues|Message Queues]] ([[kafka|Kafka]], RabbitMQ, SQS)
-- [ ] Pub/Sub patterns
+- [x] Pub/Sub patterns
 - [ ] Backpressure handling
-- [ ] Design TinyURL
+- [x] Design [[tiny-url|TinyURL]]
 - [ ] Design Rate Limiter
 - [ ] Design News Feed
 - [ ] Design Chat App

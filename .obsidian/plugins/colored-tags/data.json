@@ -20,7 +20,8 @@
     "dailyNotes": 8,
     "db": 9,
     "oops": 10,
-    "todo": 11
+    "todo": 11,
+    "excalidraw": 12
   },
   "_version": 3
 }
