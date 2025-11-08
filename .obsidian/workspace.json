@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "systemDesign/todo.md",
+                "file": "journal/doing what matters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "doing what matters"
             }
           }
         ]
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 374.5,
+    "collapsed": true
   },
   "right": {
     "id": "ff1a527a3c4c6128",
@@ -230,6 +231,9 @@
   },
   "active": "1266d821231b32e7",
   "lastOpenFiles": [
+    "Home.md",
+    "journal/doing what matters.md",
+    "systemDesign/todo.md",
     "systemDesign/tiny-url.md",
     "Pasted image 20251103231144.png",
     "Pasted image 20251103231018.png",
@@ -239,7 +243,6 @@
     "Excalidraw/Drawing 2025-11-03 21.31.18.excalidraw.md",
     "Excalidraw",
     "Pasted image 20251103193332.png",
-    "systemDesign/todo.md",
     "systemDesign/message-queues.md",
     "systemDesign/kafka.md",
     "systemDesign/sharding.md",
@@ -248,7 +251,6 @@
     "journal/2025-11-01.md",
     "systemDesign/cacheEvication.md",
     "systemDesign/cdn.md",
-    "Home.md",
     "sql/sql.md",
     "systemDesign/caching.md",
     "systemDesign/cacheInvalidation.md",
@@ -256,7 +258,6 @@
     "Pasted image 20251031161628.png",
     "journal/2025-10-31.md",
     "oops/oops.md",
-    "journal/Untitled.md",
     "oops/Revision.md",
     "journal/2025-10-27.md",
     "oops",

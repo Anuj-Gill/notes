@@ -21,7 +21,7 @@
 - [x] Communication Patterns (Polling, WebSockets, SSEs)
 - [x] Cache aside vs Write-through
 - [ ] Redis & Memcached basics
-- [ ] [[message-queues|Message Queues]] ([[kafka|Kafka]], RabbitMQ, SQS)
+- [x] [[message-queues|Message Queues]] ([[kafka|Kafka]], RabbitMQ, SQS)
 - [x] Pub/Sub patterns
 - [ ] Backpressure handling
 - [x] Design [[tiny-url|TinyURL]]
@@ -37,7 +37,7 @@
 - [x] Consistency vs Availability tradeoffs
 - [ ] Monitoring & Logging basics (+ Alerting)
 - [ ] Circuit Breakers & Retries
-- [ ] Microservices vs Monoliths
+- [x] Microservices vs Monoliths
 - [ ] Containerization (Docker/K8s basics)
 - [ ] Security Fundamentals (AuthN/AuthZ, Encryption)
 - [ ] 1 easy + 1 medium mock interview
