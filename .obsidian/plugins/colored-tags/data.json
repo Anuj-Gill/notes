@@ -21,7 +21,10 @@
     "db": 9,
     "oops": 10,
     "todo": 11,
-    "excalidraw": 12
+    "excalidraw": 12,
+    "npm": 13,
+    "tech-notes": 14,
+    "dsa": 15
   },
   "_version": 3
 }

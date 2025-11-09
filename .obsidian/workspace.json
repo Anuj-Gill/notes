@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/doing what matters.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "doing what matters"
+              "title": "Home"
+            }
+          },
+          {
+            "id": "bfee04e51c636843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech-notes/workspace-monorepo-setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "workspace-monorepo-setup"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
-    "collapsed": true
+    "width": 257.5110321044922
   },
   "right": {
     "id": "ff1a527a3c4c6128",
@@ -229,12 +243,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1266d821231b32e7",
+  "active": "5573cc479759e5f3",
   "lastOpenFiles": [
+    "tech-notes/npm-version-symbols.md",
+    "tech-notes/workspace-monorepo-setup.md",
+    "dsa/linked-list-basics.md",
     "Home.md",
+    "dsa/dsa.md",
+    "dsa",
+    "oops/Revision.md",
+    "projects/projects.md",
+    "system-design/systemDesign.md",
+    "tech-notes",
     "journal/doing what matters.md",
-    "systemDesign/todo.md",
-    "systemDesign/tiny-url.md",
+    "system-design/todo.md",
+    "system-design/tiny-url.md",
     "Pasted image 20251103231144.png",
     "Pasted image 20251103231018.png",
     "Pasted image 20251103224729.png",
@@ -243,38 +266,30 @@
     "Excalidraw/Drawing 2025-11-03 21.31.18.excalidraw.md",
     "Excalidraw",
     "Pasted image 20251103193332.png",
-    "systemDesign/message-queues.md",
-    "systemDesign/kafka.md",
-    "systemDesign/sharding.md",
+    "system-design/message-queues.md",
+    "system-design/kafka.md",
+    "system-design/sharding.md",
     "Pasted image 20251101184403.png",
     "Pasted image 20251101184342.png",
     "journal/2025-11-01.md",
-    "systemDesign/cacheEvication.md",
-    "systemDesign/cdn.md",
+    "system-design/cacheEvication.md",
+    "system-design/cdn.md",
     "sql/sql.md",
-    "systemDesign/caching.md",
-    "systemDesign/cacheInvalidation.md",
+    "system-design/caching.md",
+    "system-design/cacheInvalidation.md",
     "Pasted image 20251031161743.png",
     "Pasted image 20251031161628.png",
     "journal/2025-10-31.md",
     "oops/oops.md",
-    "oops/Revision.md",
     "journal/2025-10-27.md",
     "oops",
     "journal/2025-10-24.md",
     "projects/majorProject/Schema.md",
-    "systemDesign/leader election.md",
     "projects/majorProject",
-    "journal/2025-10-23.md",
-    "systemDesign/systemDesign.md",
-    "journal/2025-10-22.md",
-    "systemDesign/indexing.md",
-    "systemDesign",
-    "javaScript",
+    "system-design",
+    "java-script",
     "sql",
     "projects",
-    "journal",
-    "terminal",
-    "code"
+    "journal"
   ]
 }
