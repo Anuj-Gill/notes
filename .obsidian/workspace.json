@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f8f4e4f2f39b4794",
+        "id": "96a2a57d0ee17e6f",
         "type": "tabs",
         "children": [
           {
-            "id": "1266d821231b32e7",
+            "id": "d075f0073f106e34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "tech-notes/typescript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "bfee04e51c636843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech-notes/workspace-monorepo-setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "workspace-monorepo-setup"
+              "title": "typescript"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5110321044922
+    "width": 340.5,
+    "collapsed": true
   },
   "right": {
     "id": "ff1a527a3c4c6128",
@@ -186,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "systemDesign/todo.md",
+                "file": "First note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of todo"
+              "title": "Outline of First note"
             }
           },
           {
@@ -231,6 +217,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -239,57 +226,56 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "5573cc479759e5f3",
+  "active": "d075f0073f106e34",
   "lastOpenFiles": [
-    "tech-notes/npm-version-symbols.md",
-    "tech-notes/workspace-monorepo-setup.md",
-    "dsa/linked-list-basics.md",
-    "Home.md",
-    "dsa/dsa.md",
-    "dsa",
-    "oops/Revision.md",
-    "projects/projects.md",
-    "system-design/systemDesign.md",
-    "tech-notes",
+    "java-script/javaScript.md",
+    "tech-notes/typescript.md",
+    "images/Pasted image 20251031160308.png",
+    "images/Pasted image 20251031160931.png",
+    "images",
     "journal/doing what matters.md",
+    "tech-notes/workspace-monorepo-setup.md",
+    "tech-notes/npm-version-symbols.md",
+    "tech-notes",
     "system-design/todo.md",
     "system-design/tiny-url.md",
-    "Pasted image 20251103231144.png",
-    "Pasted image 20251103231018.png",
-    "Pasted image 20251103224729.png",
-    "Pasted image 20251103214423.png",
-    "Pasted image 20251103214419.png",
-    "Excalidraw/Drawing 2025-11-03 21.31.18.excalidraw.md",
-    "Excalidraw",
-    "Pasted image 20251103193332.png",
-    "system-design/message-queues.md",
-    "system-design/kafka.md",
+    "system-design/systemDesign.md",
     "system-design/sharding.md",
-    "Pasted image 20251101184403.png",
-    "Pasted image 20251101184342.png",
-    "journal/2025-11-01.md",
-    "system-design/cacheEvication.md",
+    "system-design/message-queues.md",
+    "system-design/leader election.md",
+    "system-design/kafka.md",
+    "system-design/indexing.md",
     "system-design/cdn.md",
-    "sql/sql.md",
     "system-design/caching.md",
     "system-design/cacheInvalidation.md",
-    "Pasted image 20251031161743.png",
-    "Pasted image 20251031161628.png",
-    "journal/2025-10-31.md",
-    "oops/oops.md",
-    "journal/2025-10-27.md",
-    "oops",
-    "journal/2025-10-24.md",
-    "projects/majorProject/Schema.md",
-    "projects/majorProject",
+    "system-design/cacheEvication.md",
     "system-design",
     "java-script",
-    "sql",
-    "projects",
-    "journal"
+    "dsa/linked-list-basics.md",
+    "dsa/dsa.md",
+    "dsa",
+    "systemDesign/tiny-url.md",
+    "systemDesign/todo.md",
+    "systemDesign/message-queues.md",
+    "systemDesign/kafka.md",
+    "journal/2025-11-01.md",
+    "images/Pasted image 20251103231144.png",
+    "images/Pasted image 20251103231018.png",
+    "images/Pasted image 20251103224729.png",
+    "images/Pasted image 20251103214423.png",
+    "images/Pasted image 20251103214419.png",
+    "images/Pasted image 20251103193332.png",
+    "images/Pasted image 20251101184403.png",
+    "images/Pasted image 20251101184342.png",
+    "systemDesign/sharding.md",
+    "systemDesign/cacheEvication.md",
+    "oops",
+    "projects/majorProject",
+    "systemDesign",
+    "javaScript",
+    "sql"
   ]
 }
