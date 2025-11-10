@@ -1,3 +1,3 @@
 #oops 
 
-- [[oops|Revision]]
+- [[Revision|Revision]]
