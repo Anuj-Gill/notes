@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oops/oops.md",
+                "file": "tech-notes/npm-version-symbols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "oops"
+              "title": "npm-version-symbols"
+            }
+          },
+          {
+            "id": "2c80da8fa601021d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech-notes/typescript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "typescript"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,18 +115,21 @@
             "id": "f11ad5c69b445a62",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "tech-notes/typescript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "typescript"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.5110321044922,
-    "collapsed": true
+    "width": 257.5110321044922
   },
   "right": {
     "id": "ff1a527a3c4c6128",
@@ -244,9 +261,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bb5e88ffa7fa287e",
+  "active": "2c80da8fa601021d",
   "lastOpenFiles": [
+    "nestjs/nestjs.md",
     "tech-notes/typescript.md",
+    "Home.md",
+    "nestjs.md",
+    "tech-notes/npm-version-symbols.md",
+    "nestjs",
+    "dsa/linked-list-basics.md",
+    "oops/oops.md",
     "images/Pasted image 20251103231144.png",
     "images/Pasted image 20251103231018.png",
     "images/Pasted image 20251103224729.png",
@@ -259,11 +283,7 @@
     "images/Pasted image 20251031161628.png",
     "images",
     "oops/Revision.md",
-    "oops/oops.md",
     "tech-notes/workspace-monorepo-setup.md",
-    "tech-notes/npm-version-symbols.md",
-    "dsa/linked-list-basics.md",
-    "Home.md",
     "dsa/dsa.md",
     "dsa",
     "projects/projects.md",
@@ -284,13 +304,10 @@
     "system-design/caching.md",
     "system-design/cacheInvalidation.md",
     "journal/2025-10-31.md",
-    "journal/2025-10-27.md",
     "oops",
-    "journal/2025-10-24.md",
     "projects/majorProject",
     "system-design",
     "java-script",
-    "sql",
-    "projects"
+    "sql"
   ]
 }
