@@ -1,3 +1,0 @@
-I am gonna start doing what really matter's to me
-For the last 1 month, right after I completed my internship at a YC backed startup, i had planned a lot of things for the next 1 month, i did some of them, but their is always this thought in the back of my mind "Am i giving my 100%". Now when i analysed where i am going wrong, multitasking, switching tabs and opening insta to scroll reels etc. 
-So i have decided to only do things what really matter to me and my goals. Why am i sharing this here, accountability, when sitting alone in your room, you have to do some work but instead of open instagram and start scrolling through, there is no one questioning me, and the fact that these things don't have a short term impact makes things worst. 
