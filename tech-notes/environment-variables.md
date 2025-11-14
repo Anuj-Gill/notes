@@ -3,7 +3,7 @@
 #### What really is process.env?
 - it is a global object in node that contains environment variables
 - by default, it only contains system env variables like PATH, USERNAME etc
-- .env files are not automatically loaded, that where comes the role of packages like dotenv
+- .env files are not automatically loaded, that is where comes the role of packages like dotenv
 
 #### What's dotenv?
 - a lightweight package that reads .env and loads them into process.env
