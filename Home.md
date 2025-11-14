@@ -5,4 +5,4 @@
 - [[systemDesign|System Design]]
 - [[terminal|Terminal]]
 - [[dsa|DSA]]
-- [[nestjs|Nest JS]]
+- [[tech-notes|Tech Notes]]
