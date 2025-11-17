@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech-notes/environment-variables.md",
+                "file": "system-design/todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "environment-variables"
+              "title": "todo"
             }
           }
         ]
@@ -33,6 +33,7 @@
       {
         "id": "572c0d1f89597ef7",
         "type": "tabs",
+        "dimension": 65.66951566951566,
         "children": [
           {
             "id": "5573cc479759e5f3",
@@ -79,6 +80,7 @@
       {
         "id": "7fab4569fe2485ec",
         "type": "tabs",
+        "dimension": 34.33048433048433,
         "children": [
           {
             "id": "b0d70438265bb9b6",
@@ -229,10 +231,10 @@
   },
   "active": "9aef15dd3e82321e",
   "lastOpenFiles": [
+    "tech-notes/environment-variables.md",
     "projects/projects.md",
     "projects/majorProject/Schema.md",
     "Home.md",
-    "tech-notes/environment-variables.md",
     "tech-notes/typescript.md",
     "tech-notes/nestjs.md",
     "tech-notes/tech-notes.md",
