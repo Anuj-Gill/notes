@@ -63,4 +63,4 @@ There after, on every update, it creates a virtual DOM, compares with the rpevio
 - Only Client Components get shipped as JavaScript. Server Components never reach the browser as JS.
 - Server Components can fetch data directly on the server before rendering, reducing client-side data fetching.
 - A boundary forms: everything inside a Client Component subtree becomes client-side, everything outside remains server-side.
-- Hydration happens only for Client Components. Server Components stay as plain HTML with no client JS.
+- Hydration happens for Pure server components as well.
