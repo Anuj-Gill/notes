@@ -53,3 +53,14 @@ element.appendChild()
 6. Browser renders the final DOM to screen
 
 There after, on every update, it creates a virtual DOM, compares with the rpevious one and then updates the changed element only with using the JS.
+
+#### How does Next.js do the same?
+
+- Here is where **SSR** comes in.
+- The initial HTML is generated on the server for both Server Components and Client Components.
+- The server sends HTML plus a small description of the component tree for React to hydrate later.
+- On the browser, JavaScript for Client Components is downloaded and run, which attaches event listeners, state, and logic. This step is **Hydration**.
+- Only Client Components get shipped as JavaScript. Server Components never reach the browser as JS.
+- Server Components can fetch data directly on the server before rendering, reducing client-side data fetching.
+- A boundary forms: everything inside a Client Component subtree becomes client-side, everything outside remains server-side.
+- Hydration happens only for Client Components. Server Components stay as plain HTML with no client JS.
