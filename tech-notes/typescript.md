@@ -98,6 +98,23 @@ stringStore.add("apple")
 
 #### typeof
  **typeof** used inside a type annotation reads the static type of a value
+```
+const user = {
+  id: 1,
+  name: "Gill",
+  active: true
+};
+
+// Instead of manually rewriting this object’s type:
+type UserType = typeof user;
+
+{
+  id: number;
+  name: string;
+  active: boolean;
+}
+
+```
 
 #### Parameters 
 It extracts a tuple of the parameter types

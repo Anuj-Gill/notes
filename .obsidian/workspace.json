@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nextjs/questions.md",
+                "file": "tech-notes/typescript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "questions"
+              "title": "typescript"
             }
           }
         ],
@@ -246,8 +246,8 @@
   },
   "active": "21e60a98026a69ab",
   "lastOpenFiles": [
-    "tech-notes/supabase-auth.md",
     "nextjs/questions.md",
+    "tech-notes/supabase-auth.md",
     "tech/tech.md",
     "tech",
     "nextjs",
