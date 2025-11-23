@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa/linked-list-basics.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linked-list-basics"
+              "title": "Home"
             }
           }
         ],
@@ -243,8 +243,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "21e60a98026a69ab",
+  "active": "bb5e88ffa7fa287e",
   "lastOpenFiles": [
+    "dsa/dsa.md",
+    "dsa/linked-list-basics.md",
     "dsa/doubly-linked-list.md",
     "projects/memeStockExchange/Exchange Broker.md",
     "projects/projects.md",
@@ -266,7 +268,6 @@
     "tech-notes/npm-version-symbols.md",
     "nestjs/nestjs.md",
     "nestjs",
-    "dsa/linked-list-basics.md",
     "oops/oops.md",
     "images/Pasted image 20251103231144.png",
     "images/Pasted image 20251103231018.png",
@@ -280,7 +281,6 @@
     "images/Pasted image 20251031161628.png",
     "images",
     "oops/Revision.md",
-    "dsa/dsa.md",
     "dsa",
     "system-design/systemDesign.md",
     "tech-notes",
