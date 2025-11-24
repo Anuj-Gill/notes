@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech-notes/supabase-auth.md",
+                "file": "projects/memeStockExchange/Exchange engine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "supabase-auth"
+              "title": "Exchange engine"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "doubly-linked-list"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,18 +257,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "21e60a98026a69ab",
+  "active": "9aef15dd3e82321e",
   "lastOpenFiles": [
-    "dsa/linked-list-basics.md",
+    "tech-notes/supabase-auth.md",
     "dsa/doubly-linked-list.md",
+    "dsa/linked-list-basics.md",
     "Home.md",
     "dsa/dsa.md",
-    "projects/memeStockExchange/Exchange Broker.md",
+    "projects/memeStockExchange/Exchange engine.md",
     "projects/projects.md",
     "tech-notes/typescript.md",
     "projects/memeStockExchange",
     "nextjs/questions.md",
-    "tech-notes/supabase-auth.md",
     "tech/tech.md",
     "tech",
     "nextjs",
