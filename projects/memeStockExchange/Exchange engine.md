@@ -101,7 +101,21 @@ trades(
 6. Add an entry in `orderMap` linking the order ID to the DLL node.
 
 ### 2. Matching Logic Trigger
-After the insertion flow completes, the matching logic is triggered.
+After the insertion in db, trigger the matching floe
+Matching flow:
+- Get the orderbook of that symbol
+- Get the priceLevels array of the opposite side's orderBookSide(if bid, then priceLevels of asks)
+- Get the first entry in the array
+- Match the orderPrice with the first Entry
+- Cases for match(bid order):
+	- if orderPrice > arrayFirstPrice: correct match
+		- Using the price, get the head of the linked list of that price. From the head, get the quantity
+		- Match the quantity with the order quantity. Make the updates in the db as we have the db id's of both of the order's in their order object
+		- After db updates, make the updates here in the db structures, by updating the qunatities. We do a db update first because let say the server crashes just after db updation, so we will get the udpated data only when we reintialise the orderBooks and also the user's get's the confirmed order first which is more imp
+		- NOTE: UNtil this point, we haven't added the new order in the data structres , we will add that in the orderbook only if it's complete quantity is not satisfied, basically we are doing the matchin algo first
+		- Then remove the node, the linkedlist if emtpy, the entry from the orderMap and priceLevels: ORder -> first remove the orderMap, then the node and then from the priceLevels array
+		  
+		
 
 ### 3. Matching Rules
 1. Based on the order type (bid or ask) and class (limit or market), specific matching logic runs.
