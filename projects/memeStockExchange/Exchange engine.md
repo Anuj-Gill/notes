@@ -89,9 +89,9 @@ trades(
 ## Order Processing and Matching Flow
 
 ### 1. Order Insertion
-1. A new order arrives.
+1. A new order arrives. --> New endpoint
 2. Insert the order into the database first.  
-   This returns a unique order ID.
+   This returns a unique order ID. --> Prisma call from the service
 3. Check if the price exists in `priceLevels`.  
    If not, add the price.
 4. In `levelsMap`, either:
