@@ -8,45 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9aef15dd3e82321e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/memeStockExchange/Exchange engine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exchange engine"
-            }
-          },
-          {
-            "id": "975c56cda6d433f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dsa/linked-list-basics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "linked-list-basics"
-            }
-          },
-          {
             "id": "21e60a98026a69ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa/doubly-linked-list.md",
+                "file": "tech-notes/promises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "doubly-linked-list"
+              "title": "promises"
             }
           }
         ]
@@ -257,8 +229,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9aef15dd3e82321e",
+  "active": "21e60a98026a69ab",
   "lastOpenFiles": [
+    "projects/memeStockExchange/Landing Page.md",
+    "tech-notes/promises.md",
     "dsa/doubly-linked-list.md",
     "dsa/linked-list-basics.md",
     "projects/memeStockExchange/Exchange engine.md",
@@ -300,9 +274,7 @@
     "tech-notes",
     "journal/doing what matters.md",
     "system-design/tiny-url.md",
-    "Excalidraw/Drawing 2025-11-03 21.31.18.excalidraw.md",
     "Excalidraw",
-    "system-design/message-queues.md",
     "oops",
     "projects/majorProject"
   ]
